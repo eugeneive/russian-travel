@@ -10,7 +10,8 @@
 }
 
 .header__lang-link:hover {
-  opacity: .5;
+  opacity: .8;
+  border-bottom: 3px solid #28D8FF;
 }
 
 .header__lang-link:last-of-type {
