@@ -1,19 +1,19 @@
-.header__lang-link {
-  font-size: 24px;
+.footer__link {
+  font-size: 16px;
   font-weight: 400;
-  line-height: 28px;
+  line-height: 18px;
   text-decoration: none;
   color: #fff;
-  margin-right: 18px;
+  margin: 0 18px 0 0;
   opacity: 1;
   transition: opacity .2s linear;
 }
 
-.header__lang-link:hover {
+.footer__link:hover {
   opacity: .8;
   border-bottom: 2px solid #28D8FF;
 }
 
-.header__lang-link:last-of-type {
+.footer__link:last-of-type {
   margin-right: 0;
 }

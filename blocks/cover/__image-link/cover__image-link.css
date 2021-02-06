@@ -3,6 +3,7 @@
   background-image: url(./cover-trains.jpg);
   background-size: cover;
   background-position: center;
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
