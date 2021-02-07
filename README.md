@@ -12,7 +12,7 @@ Project work in the third sprint at the Yandex Praktikum. Created adaptively fro
 
 **Credits**
 
-– Inter Font https://github.com/rsms/inter/
+- Inter Font https://github.com/rsms/inter/
 
 **Backlog**
 
