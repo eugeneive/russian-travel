@@ -1,18 +1,10 @@
 .lead__image {
   width: 100%;
   margin-top: 64px;
-  border-radius: 10px;
-}
-
-@media screen and (max-width: 768px) {
-  .lead__image {
-    border-radius: 0;
-  }
 }
 
 @media screen and (max-width: 320px) {
   .lead__image {
     margin-top: 40px;
-    border-radius: 0;
   }
 }
