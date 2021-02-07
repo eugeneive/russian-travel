@@ -7,8 +7,8 @@ Project work in the third sprint at the Yandex Praktikum. Created adaptively fro
 
 **Links**
 
-[Github Pages](https://eugeneive.github.io/russian-travel/)
-[Github Source Code](https://github.com/eugeneive/russian-travel/)
+- [Github Pages](https://eugeneive.github.io/russian-travel/)
+- [Github Source Code](https://github.com/eugeneive/russian-travel/)
 
 **Backlog**
 
