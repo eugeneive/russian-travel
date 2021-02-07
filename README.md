@@ -3,7 +3,7 @@
 
 **About**
 
-Project work in the third sprint at the Yandex Praktikum. Created adaptively from figma. Front credits – https://github.com/rsms/inter
+[Project work](https://github.com/eugeneive/russian-travel) in the third sprint at the Yandex Praktikum. Created adaptively from figma. Front credits – https://github.com/rsms/inter
 
 **Backlog**
 
